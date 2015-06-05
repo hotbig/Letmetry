@@ -17,12 +17,13 @@ class Solution{
             {
                 int comm = common.size();
                 int newer  = (*it).size();
-               
-                if(comm > newer)
+
+                if( comm > newer )
                 {
+                    common.erase(newer, comm-newer);
                     comm = newer;
                 }
-
+                
                 for(int i=0; i < comm; i++)
                 {
                     if(common[i] == (*it)[i])
