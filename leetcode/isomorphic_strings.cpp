@@ -28,15 +28,12 @@ class Solution{
         }
         void clean(string s, map<char, vector<int>* > &m)
         {
-            if(s != NULL)
-            {
                 for(int i; i < s.size(); i++)
                 {
                     vector<int>* v = m[s[i]];
                     if( v!= NULL)
                         delete v;
                 }
-            }       
         }
 
         bool isIsomorphic(string s, string t){
