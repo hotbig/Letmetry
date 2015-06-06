@@ -90,8 +90,8 @@ class Solution{
 
 end:
 
-           clean(s, m_s);
-           clean(t, m_t);
+           clean(u_s, m_s);// remove error correction
+           clean(u_t, m_t);// remove error correction
            return isIsomo;
         }
 
