@@ -20,7 +20,7 @@ class Solution{
 
         int countPrimes(int n){
             int count = 1;
-            if(n <= 1)
+            if(n <= 2)
                 count = 0;
 
             for(int i = 3; i < n; i=i+2)
