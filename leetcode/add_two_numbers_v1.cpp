@@ -17,14 +17,14 @@ class Solution{
             ListNode* prevl1 = NULL;
             ListNode* prevl2 = NULL;
             int carry = 0;
-
+    
             if(l1 == NULL && l2 != NULL)
                 return l2;
             else if(l1 != NULL && l2 == NULL)
                 return l1;
             else if(l1 == NULL && l2 == NULL)
                 return NULL;
-
+    
             while(l1 != NULL && l2 != NULL)
             {
                 l1->val += l2->val + carry;
@@ -37,13 +37,13 @@ class Solution{
                 {
                     carry = 0;
                 }
-
+    
                 prevl1 = l1;
                 prevl2 = l2;
                 l1 = l1->next;
                 l2 = l2->next;
             }
-
+    
             if(l1 == NULL && l2 != NULL)
             {
                 if(prevl1 != NULL)
@@ -53,7 +53,7 @@ class Solution{
                         prevl2->next = NULL;
                 }
             }
-
+    
             l1 = prevl1->next;
             while(carry != 0)
             {
@@ -79,11 +79,11 @@ class Solution{
                         prevl1->next = tail;
                     else
                         delete tail;
-
+    
                     carry = 0;
                 }
             }
-
+    
             return l1Head;
         }
 };
