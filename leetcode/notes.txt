@@ -9,3 +9,6 @@ xxx   pascal triangle    : pascal formula v[i][j] = combination(i, j)
                            v2 combination overflow solved by workaround
 xxx   pascal triangle II : v1 combination overflow again!
                            v2 optimization combination and passed.
+xxx   add two numbers      v1 [5]+[5] = 0, failed, expected: [0, 1]
+                           v2 [1]+[9,9]=0,10, failed, expected, [0, 0, 1]
+                           v3 loooooooop carry to the end
