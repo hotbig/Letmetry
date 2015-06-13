@@ -17,14 +17,14 @@ class Solution{
             ListNode* prevl1 = NULL;
             ListNode* prevl2 = NULL;
             int carry = 0;
-
+    
             if(l1 == NULL && l2 != NULL)
                 return l2;
             else if(l1 != NULL && l2 == NULL)
                 return l1;
             else if(l1 == NULL && l2 == NULL)
                 return NULL;
-
+    
             while(l1 != NULL && l2 != NULL)
             {
                 l1->val += l2->val + carry;
@@ -37,15 +37,16 @@ class Solution{
                 {
                     carry = 0;
                 }
-
+    
                 prevl1 = l1;
                 prevl2 = l2;
                 l1 = l1->next;
                 l2 = l2->next;
             }
-
+    
             if(l1 == NULL && l2 != NULL)
             {
+                l2->val += carry;
                 if(prevl1 != NULL)
                 {
                     prevl1->next = l2;
@@ -53,37 +54,19 @@ class Solution{
                         prevl2->next = NULL;
                 }
             }
-
-            l1 = prevl1->next;
-            while(carry != 0)
+            else if(l1 != NULL && l2 == NULL)
             {
-                if( l1 != NULL )
-                {
-                    l1->val += carry;
-                    if(l1->val >= 10)
-                    {
-                        l1->val %= 10;
-                        carry = 1;
-                        prevl1 = l1;
-                        l1 = l1->next;
-                    }
-                    else
-                    {
-                        carry = 0;
-                    }
-                }
-                else
+                l1->val += carry;
+            }
+            else if(l1 == NULL && l2 == NULL)
+            {
+                if(carry != 0)
                 {
                     ListNode *tail = new ListNode(1);
-                    if(prevl1 != NULL)
-                        prevl1->next = tail;
-                    else
-                        delete tail;
-
-                    carry = 0;
+                    prevl1->next = tail;
                 }
             }
-
+            
             return l1Head;
         }
 };
