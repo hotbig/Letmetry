@@ -4,3 +4,6 @@ xx    climbing_stairs    : dynamic programming, similar with house_robber
 xxx   rotate_array       : size changed after insert, should be udpated as well
 p     same tree          : passed first time
 p     path sum           : passed first time
+xxx   pascal triangle    : pascal formula v[i][j] = combination(i, j)
+                           v1 combination overflow
+                           v2 combination overflow solved by workaround
