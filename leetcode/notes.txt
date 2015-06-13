@@ -3,3 +3,4 @@
 xx    climbing_stairs    : dynamic programming, similar with house_robber
 xxx   rotate_array       : size changed after insert, should be udpated as well
 p     same tree          : passed first time
+p     path sum           : passed first time
