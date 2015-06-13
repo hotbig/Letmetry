@@ -1,3 +1,4 @@
 0613:
-***** single_number  : xor, A^B^B^A^C = C  
-***** climbing_stairs: dynamic programming, similar with house_robber
+***** single_number      : xor, A^B^B^A^C = C  
+xx    climbing_stairs    : dynamic programming, similar with house_robber
+xxx   rotate_array       : size changed after insert, should be udpated as well
