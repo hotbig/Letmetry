@@ -7,3 +7,5 @@ p     path sum           : passed first time
 xxx   pascal triangle    : pascal formula v[i][j] = combination(i, j)
                            v1 combination overflow
                            v2 combination overflow solved by workaround
+xxx   pascal triangle II : v1 combination overflow again!
+                           v2 optimization combination and passed.
