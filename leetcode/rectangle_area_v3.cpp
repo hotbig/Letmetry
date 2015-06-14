@@ -5,10 +5,11 @@ using namespace std;
 
 class Solution{
     public:
-        int computeArea(int A, int B, int C, int D, int E, int F, int G, int H){
+        int commonArea(int A, int B, int C, int D, int E, int F, int G, int H)
+        {
             int x=0;
             int y=0;
-
+    
             if(E>=A && E<C)
             {
                 x = (C>G)?(G-E):(C-E);
@@ -17,7 +18,7 @@ class Solution{
             {
                 x = (C>G)?(G-A):(C-A);
             }
-
+    
             if(B>=F && B<H)
             {
                 y = (D>H)?(H-B):(D-B);
@@ -27,6 +28,10 @@ class Solution{
                 y = (H>D)?(D-F):(H-F);
             }
             return (x*y);
+        }
+        
+        int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {
+            return ((C-A)*(D-B)+(G-E)*(H-F)-commonArea(A,B,C,D,E,F,G,H));
         }
 };
 
