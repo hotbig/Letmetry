@@ -22,3 +22,6 @@ pp    merge two sortedlist  : v1 passed
                               v2 more clean version from discussion forum
 p     valid parentheses     : check stack size befor call top
 p     remove nth from end   : remove nth node from end of list
+xxx   rectangle area        : v1 side parameters not checked for common area
+                              v2 corrected for side para, but misuderstand problem
+                              v3 (areaA+areaB)-commonArea
