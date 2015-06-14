@@ -16,5 +16,7 @@ xxx   add two numbers      v1 [5]+[5] = 0, failed, expected: [0, 1]
 
 0614
 ----------------------------------------------------------------------------------
-xx    valid palindrome   : v1 missed to consider 0~9 in the string
-                           v2 corrected v1
+xx    valid palindrome      : v1 missed to consider 0~9 in the string
+                              v2 corrected v1
+pp    merge two sortedlist  : v1 passed 
+                              v2 more clean version from discussion forum
