@@ -34,3 +34,7 @@ xxx   palindrome number     : v1 negative number should return false
 ----------------------------------------------------------------------------------
 p     intersection_of_two_linked_lists : calc two linked lists length first
                                          then, len(A)-len(B), then...
+
+xxx   string to integer     : v1 case "-+1" should return 0,
+                              v2 if overflow, then should return max or min int
+                              v3 passed
