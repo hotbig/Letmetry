@@ -28,3 +28,9 @@ xxx   rectangle area        : v1 side parameters not checked for common area
 xxx   palindrome number     : v1 negative number should return false
                               v2 10 100 or similar should return false
                               v3 corrected
+
+
+0615
+----------------------------------------------------------------------------------
+p     intersection_of_two_linked_lists : calc two linked lists length first
+                                         then, len(A)-len(B), then...
