@@ -38,3 +38,8 @@ p     intersection_of_two_linked_lists : calc two linked lists length first
 xxx   string to integer     : v1 case "-+1" should return 0,
                               v2 if overflow, then should return max or min int
                               v3 passed
+
+0616
+----------------------------------------------------------------------------------
+xxxx  compare version number: v1/2/3/4/5, need to check problem carefully. 
+                              please see the leetcode submission for detail fail.
