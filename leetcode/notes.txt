@@ -52,3 +52,8 @@ xp    majority element       : v1 logic error!!!!
                                each occurrence of an element e with all the other 
                                elements that are different from e then e will 
                                exist till end if it is a majority element. 
+0617
+----------------------------------------------------------------------------------
+xxx  factorial traiiling Zeros: v1 too slow
+                                v2 too slow
+                                v3 algo from the dicuss forum!!!!!!!!!!!!!!!!
