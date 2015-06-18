@@ -57,3 +57,4 @@ xp    majority element       : v1 logic error!!!!
 xxx  factorial traiiling Zeros: v1 too slow
                                 v2 too slow
                                 v3 algo from the dicuss forum!!!!!!!!!!!!!!!!
+p    excel sheet column number  passed first time
