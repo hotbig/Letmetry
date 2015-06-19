@@ -52,9 +52,13 @@ xp    majority element       : v1 logic error!!!!
                                each occurrence of an element e with all the other 
                                elements that are different from e then e will 
                                exist till end if it is a majority element. 
-0617
+0618
 ----------------------------------------------------------------------------------
 xxx  factorial traiiling Zeros: v1 too slow
                                 v2 too slow
                                 v3 algo from the dicuss forum!!!!!!!!!!!!!!!!
 p    excel sheet column number  passed first time
+
+0619
+----------------------------------------------------------------------------------
+p    zigzag conversion         : passed first time, but take 1.5 hours!!!!
