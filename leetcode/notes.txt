@@ -62,3 +62,8 @@ p    excel sheet column number  passed first time
 0619
 ----------------------------------------------------------------------------------
 p    zigzag conversion         : passed first time, but take 1.5 hours!!!!
+
+0620
+----------------------------------------------------------------------------------
+p    roman to int              : passed first time, check requirement carefully
+
