@@ -70,12 +70,14 @@ px   invert binary tree        : v1 passed first time, recurusive way
                                  v2 !!!!!!!!!!!!!! loop, weibo, zuoerdu
 0621
 ----------------------------------------------------------------------------------------
-xxx  contains duplicate II     : v1: time exceed, for for is too long
-                                 v2: change it to map version, logic error
-                                 v3: corrected.
-xx   balanced binary tree      : v1: setjmp can't be used on LeetCode. 2 hours
-                                 v2: use global variable.
-xppx binary_tree_level_order_  : v1: typo error, missed j++
-     traversal_II                v2: 140ms, running time too long
-                                 v3: 16ms, better, remove merge function!
-                                 v4: one solution from discusstion forum, clean
+xxx  contains duplicate II     : v1 time exceed, for for is too long
+                                 v2 change it to map version, logic error
+                                 v3 corrected.
+xx   balanced binary tree      : v1 setjmp can't be used on LeetCode. 2 hours!!!!!!!!
+                                 v2 use global variable.
+xppx binary_tree_level_order_  : v1 typo error, missed j++
+     traversal_II                v2 140ms, running time too long
+                                 v3 16ms, better, remove merge function!
+                                 v4 one solution from discusstion forum, clean
+xp   maximum_depth_of_         : v1 why wrong?depth is the edge number or node number?
+     binary_tree                 v2 node number!!!!!!!!
