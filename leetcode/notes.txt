@@ -63,9 +63,13 @@ p    excel sheet column number  passed first time
 ----------------------------------------------------------------------------------
 p    zigzag conversion         : passed first time, but take 1.5 hours!!!!
 
-0620
-----------------------------------------------------------------------------------
+0620 ----------------------------------------------------------------------------------
 p    roman to int              : passed first time, check requirement carefully
 px   invert binary tree        : v1 passed first time, recurusive way
                                  v2 !!!!!!!!!!!!!! loop, weibo, zuoerdu
+0621
+----------------------------------------------------------------------------------
+xxx  contains duplicate II     : v1: time exceed, for for is too long
+                                 v2: change it to map version, logic error
+                                 v3: corrected.
 
