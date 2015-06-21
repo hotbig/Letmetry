@@ -1,76 +1,81 @@
 0613:
-----------------------------------------------------------------------------------
-***** single_number      : xor, A^B^B^A^C = C  
-xx    climbing_stairs    : dynamic programming, similar with house_robber
-xxx   rotate_array       : size changed after insert, should be udpated as well
-p     same tree          : passed first time
-p     path sum           : passed first time
-xxx   pascal triangle    : pascal formula v[i][j] = combination(i, j)
-                           v1 combination overflow
-                           v2 combination overflow solved by workaround
-xxx   pascal triangle II : v1 combination overflow again!
-                           v2 optimization combination and passed.
-xxx   add two numbers      v1 [5]+[5] = 0, failed, expected: [0, 1]
-                           v2 [1]+[9,9]=0,10, failed, expected, [0, 0, 1]
-                           v3 loooooooop carry to the end
+----------------------------------------------------------------------------------------
+***** single_number            : xor, A^B^B^A^C = C  
+xx    climbing_stairs          : dynamic programming, similar with house_robber
+xxx   rotate_array             : size changed after insert, should be udpated as well
+p     same tree                : passed first time
+p     path sum                 : passed first time
+xxx   pascal triangle          : pascal formula v[i][j] = combination(i, j)
+                                 v1 combination overflow
+                                 v2 combination overflow solved by workaround
+xxx   pascal triangle II       : v1 combination overflow again!
+                                 v2 optimization combination and passed.
+xxx   add two numbers            v1 [5]+[5] = 0, failed, expected: [0, 1]
+                                 v2 [1]+[9,9]=0,10, failed, expected, [0, 0, 1]
+                                 v3 loooooooop carry to the end
 
 0614
-----------------------------------------------------------------------------------
-xx    valid palindrome      : v1 missed to consider 0~9 in the string
-                              v2 corrected v1
-pp    merge two sortedlist  : v1 passed 
-                              v2 more clean version from discussion forum
-p     valid parentheses     : check stack size befor call top
-p     remove nth from end   : remove nth node from end of list
-xxx   rectangle area        : v1 side parameters not checked for common area
-                              v2 corrected for side para, but misuderstand problem
-                              v3 (areaA+areaB)-commonArea
-xxx   palindrome number     : v1 negative number should return false
-                              v2 10 100 or similar should return false
-                              v3 corrected
+----------------------------------------------------------------------------------------
+xx    valid palindrome         : v1 missed to consider 0~9 in the string
+                                 v2 corrected v1
+pp    merge two sortedlist     : v1 passed 
+                                 v2 more clean version from discussion forum
+p     valid parentheses        : check stack size befor call top
+p     remove nth from end      : remove nth node from end of list
+xxx   rectangle area           : v1 side parameters not checked for common area
+                                 v2 corrected for side para, but misuderstand problem
+                                 v3 (areaA+areaB)-commonArea
+xxx   palindrome number        : v1 negative number should return false
+                                 v2 10 100 or similar should return false
+                                 v3 corrected
 
 
 0615
-----------------------------------------------------------------------------------
-p     intersection_of_two_linked_lists : calc two linked lists length first
-                                         then, len(A)-len(B), then...
+----------------------------------------------------------------------------------------
+p     intersection_of_two_     : calc two linked lists length first
+      linker_lists               then, len(A)-len(B), then...
 
-xxx   string to integer     : v1 case "-+1" should return 0,
-                              v2 if overflow, then should return max or min int
-                              v3 passed
+xxx   string to integer        : v1 case "-+1" should return 0,
+                                 v2 if overflow, then should return max or min int
+                                 v3 passed
 
 0616
-----------------------------------------------------------------------------------
-xxxx  compare version number: v1/2/3/4/5, need to check problem carefully. 
-                              please see the leetcode submission for detail fail.
+----------------------------------------------------------------------------------------
+xxxx  compare version number   : v1/2/3/4/5, need to check problem carefully. 
+                                 please see the leetcode submission for detail fail.
 0617
-----------------------------------------------------------------------------------
-p     excel sheet column tile: passed first time
-xp    majority element       : v1 logic error!!!!
-                               v2 correct, it's very slow 
-                               v3 Basic idea of the algorithm is if we cancel out 
-                               each occurrence of an element e with all the other 
-                               elements that are different from e then e will 
-                               exist till end if it is a majority element. 
+----------------------------------------------------------------------------------------
+p     excel sheet column tile  : passed first time
+xp    majority element         : v1 logic error!!!!
+                                 v2 correct, it's very slow 
+                                 v3 Basic idea of the algorithm is if we cancel out 
+                                 each occurrence of an element e with all the other 
+                                 elements that are different from e then e will 
+                                 exist till end if it is a majority element. 
 0618
-----------------------------------------------------------------------------------
-xxx  factorial traiiling Zeros: v1 too slow
-                                v2 too slow
-                                v3 algo from the dicuss forum!!!!!!!!!!!!!!!!
-p    excel sheet column number  passed first time
+----------------------------------------------------------------------------------------
+xxx  factorial traiiling Zeros : v1 too slow
+                                 v2 too slow
+                                 v3 algo from the dicuss forum!!!!!!!!!!!!!!!!
+p    excel sheet column number : passed first time
 
 0619
-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 p    zigzag conversion         : passed first time, but take 1.5 hours!!!!
 
-0620 ----------------------------------------------------------------------------------
+0620 
+----------------------------------------------------------------------------------------
 p    roman to int              : passed first time, check requirement carefully
 px   invert binary tree        : v1 passed first time, recurusive way
                                  v2 !!!!!!!!!!!!!! loop, weibo, zuoerdu
 0621
-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 xxx  contains duplicate II     : v1: time exceed, for for is too long
                                  v2: change it to map version, logic error
                                  v3: corrected.
 xx   balanced binary tree      : v1: setjmp can't be used on LeetCode. 2 hours
                                  v2: use global variable.
+xppx binary_tree_level_order_  : v1: typo error, missed j++
+     traversal_II                v2: 140ms, running time too long
+                                 v3: 16ms, better, remove merge function!
+                                 v4: one solution from discusstion forum, clean
