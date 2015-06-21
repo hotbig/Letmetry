@@ -72,4 +72,5 @@ px   invert binary tree        : v1 passed first time, recurusive way
 xxx  contains duplicate II     : v1: time exceed, for for is too long
                                  v2: change it to map version, logic error
                                  v3: corrected.
-
+xx   balanced binary tree      : v1: setjmp can't be used on LeetCode. 2 hours
+                                 v2: use global variable.
