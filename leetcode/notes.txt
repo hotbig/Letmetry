@@ -83,7 +83,7 @@ xp   maximum_depth_of_         : v1 why wrong?depth is the edge number or node n
      binary_tree                 v2 node number!!!!!!!! see [1]
 p    binary_tree_level_order_  : passed first time. Almost same with v4 of II
      traversal_I                    
-     
+p    symmetric_tree            : passed first time. use invert_binary_tree+same_tree     
      
      
      
