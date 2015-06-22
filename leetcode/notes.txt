@@ -92,6 +92,9 @@ xxxx Implement strStr          : v1 logic erro and side check, case: "" ""
                                  v3 logic erro and case: "mississippi" "issi"
                                  v4 logic erro and case: "mississippi" "pi"
                                  v5 final corrected !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+xxx  merge sorted array        : v1 nums1 contain extra space for nums2
+                                 v2 nums1 contain extra space for nums2 
+                                 v3 corrected!!!, need to check problem carefully.
                                  
      
      
