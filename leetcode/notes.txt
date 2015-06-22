@@ -98,6 +98,9 @@ xxx  merge sorted array        : v1 nums1 contain extra space for nums2
 xx   remove_duplicates_from_   : v1 forget to check parameter "NULL"
      sorted_list                 v2 corrected.
 p    valid_soduku              : passed first time. Use map and set, not very fast.
+xxx  count_and_say             : v1 doesn't match the requirement
+                                 v2 doesn't match the requirement
+                                 v3 1, 11, 21, 1211, 111221, 312211, 13112221...
                                  
      
      
