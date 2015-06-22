@@ -102,6 +102,8 @@ xxx  count_and_say             : v1 doesn't match the requirement
                                  v2 doesn't match the requirement
                                  v3 1, 11, 21, 1211, 111221, 312211, 13112221...
 p    add_binary                : passed first time, not very clean.
+xp   plus_one                  : v1 logic error !!!! add every digits one.....
+                               : v2 corrected.
                                  
      
      
