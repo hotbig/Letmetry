@@ -95,6 +95,8 @@ xxxx Implement strStr          : v1 logic erro and side check, case: "" ""
 xxx  merge sorted array        : v1 nums1 contain extra space for nums2
                                  v2 nums1 contain extra space for nums2 
                                  v3 corrected!!!, need to check problem carefully.
+xx   remove_duplicates_from_   : v1 forget to check parameter "NULL"
+     sorted_list                 v2 corrected.
                                  
      
      
