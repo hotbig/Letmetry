@@ -97,6 +97,7 @@ xxx  merge sorted array        : v1 nums1 contain extra space for nums2
                                  v3 corrected!!!, need to check problem carefully.
 xx   remove_duplicates_from_   : v1 forget to check parameter "NULL"
      sorted_list                 v2 corrected.
+p    valid_soduku              : passed first time. Use map and set, not very fast.
                                  
      
      
