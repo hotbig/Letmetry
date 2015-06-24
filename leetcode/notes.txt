@@ -105,6 +105,11 @@ p    add_binary                : passed first time, not very clean.
 xp   plus_one                  : v1 logic error !!!! add every digits one.....
                                : v2 corrected.
                                  
+0624
+----------------------------------------------------------------------------------------
+xxxx Construct binary tree from: v3 take 4 hours to think the solution, finally get it.
+     inorder and postorder          but using too many memory!!!!!!!!!!!!!!!
+     traversal                   v4 less memory after optimization!
      
      
      
