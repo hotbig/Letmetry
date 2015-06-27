@@ -113,12 +113,13 @@ xxxx Construct binary tree from: v3 take 4 hours to think the solution, finally 
      
 0627
 ----------------------------------------------------------------------------------------
-!!!! contains duplicate III      v1 for for solution, without consider abs()
+!!!! contains duplicate III    : v1 for for solution, without consider abs()
                                  v2 for for solution, timing exceed
                                  v3 use multimap, side case
                                  v4 use multimap, side case
                                  v5 use multimap+lower_upper_bound, int exceed max value
                                  v6 use multimap+lower_upper_bound+long type 
+p    binary tree preorder trav : passed first time  
      
      
      
