@@ -123,7 +123,9 @@ p    binary tree preorder trav : passed first time
 p    linked list cycle         : passed first time
 p    linked list cycle II      : passed first time, Need check again
      
-     
+0713
+----------------------------------------------------------------------------------------
+p    number of digit one       : passed frist time. take 2 hours.     
      
      
      
