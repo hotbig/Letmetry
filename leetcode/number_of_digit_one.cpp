@@ -33,16 +33,16 @@ class Solution{
                 1000000000,
             };
             int b[] = {
-                0,
-                1,
-                20,
-                300,
-                4000,
-                50000,
-                600000,
-                7000000,
-                80000000,
-                900000000
+                0,                   // <1
+                1,                   // <10
+                20,                  // <100
+                300,                 // <1000
+                4000,                // <10000
+                50000,               // <100000
+                600000,              // <1000000
+                7000000,             // <10000000
+                80000000,            // <100000000
+                900000000            // <1000000000
             };
 
             int count = 0;
@@ -52,16 +52,16 @@ class Solution{
                 {
                     int tmp = n/a[i];
                     if(tmp == 1)
-                    {
-                        count += (n-a[i]);
-                        count += (b[i]+1);
-                        n = n - a[i];
+                    {                      //case: 1xxxxx
+                        count += (n-a[i]); // add   xxxxx of 1 for 1xxxxx
+                        count += (b[i]+1); // add   b[i] of 1  for 100000
+                        n = n - a[i];      // calc 1 in xxxxx next
                     }
                     else
-                    {
-                        count += (a[i]);
-                        count += tmp*(i>0?b[i]:0);
-                        n -= tmp*a[i];
+                    {                               //case: 2xxxxx
+                        count += (a[i]);            // add  100000 of 1 from 100000~199999
+                        count += tmp*(i>0?b[i]:0);  // add  2*50000 of 1 for  2*(0~99999)
+                        n -= tmp*a[i];              // calc xxxxx next
                     }
                 }
                 else if(n == a[i])
