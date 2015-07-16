@@ -130,6 +130,7 @@ p    number of digit one       : passed frist time. take 2 hours.
 0716
 ----------------------------------------------------------------------------------------
 p    reorder list              : passed frist time. stack
+!!!! productOfArray except self: v1. Can't imagine the solution!!!!!!. 
      
      
      
