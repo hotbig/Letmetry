@@ -127,6 +127,9 @@ p    linked list cycle II      : passed first time, Need check again
 ----------------------------------------------------------------------------------------
 p    number of digit one       : passed frist time. take 2 hours.     
      
+0716
+----------------------------------------------------------------------------------------
+p    reorder list              : passed frist time. stack
      
      
      
