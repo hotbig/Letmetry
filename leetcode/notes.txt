@@ -132,6 +132,9 @@ p    number of digit one       : passed frist time. take 2 hours.
 p    reorder list              : passed frist time. stack
 !!!! productOfArray except self: v1. Can't imagine the solution!!!!!!. 
      
+0719
+----------------------------------------------------------------------------------------
+p    sorted array to BST       : passed first time. Binary Search Tree definition!
      
      
      
