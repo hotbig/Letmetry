@@ -136,6 +136,7 @@ p    reorder list              : passed frist time. stack
 ----------------------------------------------------------------------------------------
 p    sorted array to BST       : passed first time. Binary Search Tree definition!
 p    sorted list  to BST       : passed first time. Binary Search Tree definition!
+p    Binary Search TreeIterator: passed first time. Stack
      
      
      
