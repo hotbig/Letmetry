@@ -142,6 +142,8 @@ p    Binary Search TreeIterator: passed first time. Stack
 ----------------------------------------------------------------------------------------
 p    kth smallest num in BTS   : passed first time. Stack. there are also Recrusive
                                  solution, please consider again!!!!!
+xp   valiate binary search tree: v1 failed. no-stack. please check leetcode commit.
+                                 v2 stack solution, success.
      
      
      
