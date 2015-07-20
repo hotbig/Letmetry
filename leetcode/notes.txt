@@ -138,7 +138,10 @@ p    sorted array to BST       : passed first time. Binary Search Tree definitio
 p    sorted list  to BST       : passed first time. Binary Search Tree definition!
 p    Binary Search TreeIterator: passed first time. Stack
      
-     
+0720
+----------------------------------------------------------------------------------------
+p    kth smallest num in BTS   : passed first time. Stack. there are also Recrusive
+                                 solution, please consider again!!!!!
      
      
      
