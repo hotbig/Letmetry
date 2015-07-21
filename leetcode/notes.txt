@@ -144,6 +144,7 @@ p    kth smallest num in BTS   : passed first time. Stack. there are also Recrus
                                  solution, please consider again!!!!!
 xp   valiate binary search tree: v1 failed. no-stack. please check leetcode commit.
                                  v2 stack solution, success.
+<<<<<<< HEAD
      
 0721
 ----------------------------------------------------------------------------------------
@@ -151,6 +152,10 @@ xxp  unique-binary-search-trees: v1. timeout. think two night!!!!!
                                  v2. timeout. with vector
                                  v3. passed.  half of the iteration. 120ms. still slow
     
+=======
+p    binaryTreeInorderTraversal: passed first time.
+     
+>>>>>>> aa8517b1a74119587f7072973d9f957e025c4777
      
      
      
