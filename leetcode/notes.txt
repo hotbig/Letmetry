@@ -153,8 +153,11 @@ xxp  unique-binary-search-trees: v1. timeout. think two night!!!!!
                                  v3. passed.  half of the iteration. 120ms. still slow
                                  v4. passed.  best solution. 0ms 
     
-     
-     
+0726
+----------------------------------------------------------------------------------------
+p    unique-bianry-search-trees  v1. spend several night think!!!!!idea is simple 
+     II                              tree node shared by sub-trees, but can be passed
+                                 v2. add copy of tree. 
      
      
      
