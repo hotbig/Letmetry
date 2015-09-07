@@ -158,9 +158,13 @@ xxp  unique-binary-search-trees: v1. timeout. think two night!!!!!
 p    unique-bianry-search-trees  v1. spend several night think!!!!!idea is simple 
      II                              tree node shared by sub-trees, but can be passed
                                  v2. add copy of tree. 
+p    next permutation            v1. use extra space. passed
+                                 v2. without extra space. passed. check again.!!!!!!
      
-     
-     
+0907
+----------------------------------------------------------------------------------------
+xp   surrounded regions          v1. row and columns incorrect in findNeighboring.
+                                 v2. passed. 
      
      
      
