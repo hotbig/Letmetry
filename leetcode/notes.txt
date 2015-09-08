@@ -165,7 +165,11 @@ p    next permutation            v1. use extra space. passed
 ----------------------------------------------------------------------------------------
 xp   surrounded regions          v1. row and columns incorrect in findNeighboring.
                                  v2. passed. 
-     
+0908
+----------------------------------------------------------------------------------------
+xxp  longest substring without   v1. failed due to incorrect idea!!!!!
+     repeating characters        v2. map erase cause incorrect erase behavior!!!!!
+                                 v3. passed 
      
      
      
