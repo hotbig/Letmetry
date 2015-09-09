@@ -170,7 +170,11 @@ xp   surrounded regions          v1. row and columns incorrect in findNeighborin
 xxp  longest substring without   v1. failed due to incorrect idea!!!!!
      repeating characters        v2. map erase cause incorrect erase behavior!!!!!
                                  v3. passed 
-     
+0909
+----------------------------------------------------------------------------------------
+xxxp two sum                     v1. failed, index starting from 1, not zero
+                                 v2. failed, case [0, 0], 0 or similar
+                                 v3. passed with a workaround
      
      
      
