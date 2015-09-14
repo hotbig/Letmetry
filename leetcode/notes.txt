@@ -175,7 +175,11 @@ xxp  longest substring without   v1. failed due to incorrect idea!!!!!
 xxxp two sum                     v1. failed, index starting from 1, not zero
                                  v2. failed, case [0, 0], 0 or similar
                                  v3. passed with a workaround
-     
+0914
+----------------------------------------------------------------------------------------
+ppp  palindrome partitioning     v1. passed. two slow.
+                                 v2. passed. two slow.
+                                 v3. passed with dfs from discuss forum. again!!!!!!!!
      
      
      
