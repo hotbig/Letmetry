@@ -184,7 +184,7 @@ ppp  palindrome partitioning     v1. passed. two slow.
 0915
 ----------------------------------------------------------------------------------------
 p    best time to buy and sell   v1. passed. buy in low price and sell with high price!     
-     
+p    populate xext right pointer v1. passed.  
      
      
      
