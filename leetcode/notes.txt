@@ -188,7 +188,9 @@ p    populate xext right pointer v1. passed.
      
 0916
 ----------------------------------------------------------------------------------------
-!!!  single number iii           v1. can't imagin the solution !!!!!!!
+!!!  single number iii           v1. can't imagin the solution !!! shuai from forum
+!!!  single number ii            v1. can't imagin the solution !!! shuai from forum
+
      
      
      
