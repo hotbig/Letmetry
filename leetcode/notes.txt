@@ -196,6 +196,8 @@ p    populate xext right pointer v1. passed.
 ----------------------------------------------------------------------------------------
 pxp  search insert position      v1. time=O(n), passed.
                                  v2. time=O(logn), failed as mid=start+(end-start)/2
+xp   max subarray                v1. failed due to at least contain one element.
+                                 v2. patch based on v1(v1 return 0 if max less than 0)
      
      
      
