@@ -192,7 +192,10 @@ p    populate xext right pointer v1. passed.
 !!!  single number ii            v1. can't imagin the solution !!! shuai from forum
 
      
-     
+0917
+----------------------------------------------------------------------------------------
+pxp  search insert position      v1. time=O(n), passed.
+                                 v2. time=O(logn), failed as mid=start+(end-start)/2
      
      
      
