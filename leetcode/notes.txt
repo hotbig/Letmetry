@@ -205,6 +205,8 @@ pxxp find min in rotated array   v1. O(n) solution.
                                  v2. O(logN) failed,
                                  v3. O(logN) failed,
                                  v4. success, pls check again!!!!!. think clear first!! 
+xxxp missing number              v1/2/3. corner cases 
+                                 v4. passed with clear logic!!!!
      
      
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
