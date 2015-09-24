@@ -199,7 +199,12 @@ pxp  search insert position      v1. time=O(n), passed.
 xp   max subarray                v1. failed due to at least contain one element.
                                  v2. patch based on v1(v1 return 0 if max less than 0)
      
-     
+0924
+----------------------------------------------------------------------------------------
+pxxp find min in rotated array   v1. O(n) solution.
+                                 v2. O(logN) failed,
+                                 v3. O(logN) failed,
+                                 v4. success, pls check again!!!!!. think clear first!! 
      
      
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
