@@ -209,5 +209,9 @@ xxxp missing number              v1/2/3. corner cases
                                  v4. passed with clear logic!!!! 
                                  v?. please try to use XOR again!!!!!!
      
+0925
+----------------------------------------------------------------------------------------
+xp   gray code                   v1. incorrect logic
+                                 v2. extract the logic first, write down the program!!!!
      
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
