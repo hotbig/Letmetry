@@ -227,4 +227,10 @@ xxp unique paths                 v1. recursive, time out
 p   sum to root leaf             v1. passed.
 
 
+1018
+----------------------------------------------------------------------------------------
+p   combinations                 v1. passed.
+
+
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
