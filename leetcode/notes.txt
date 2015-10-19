@@ -230,6 +230,7 @@ p   sum to root leaf             v1. passed.
 1018
 ----------------------------------------------------------------------------------------
 p   combinations                 v1. passed.
+p   remove duplicates from vect  v1. passed.
 
 
 
