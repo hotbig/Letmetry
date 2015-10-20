@@ -234,7 +234,8 @@ p   remove duplicates from vect  v1. passed.
 
 1020
 ----------------------------------------------------------------------------------------
-p   swap pairs                   v1. failed, forget to swap
+xp  swap pairs                   v1. failed, forget to swap
                                  v2. passed. 
+p   find peak element            v1. passed. 
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
