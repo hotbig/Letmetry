@@ -248,4 +248,7 @@ xxp sort list                    v1. failed
 p   insert sort list             v1. passed.
 xp  sort colors.                 v1. failed
                                  v2. passed.
+xxp remove dup from sort list    v1. failed. return missed.
+                                 v2. failed. parameter check
+                                 v3. passed. 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
