@@ -246,4 +246,6 @@ xxp sort list                    v1. failed
 1025
 ----------------------------------------------------------------------------------------
 p   insert sort list             v1. passed.
+xp  sort colors.                 v1. failed
+                                 v2. passed.
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
