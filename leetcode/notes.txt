@@ -243,4 +243,7 @@ p   find peak element            v1. passed.
 xxp sort list                    v1. failed
                                  v2. failed. 1 1 1 1 1 1 2 3 3 1 3 2 1 1 case!!!!!!!!!!
                                  v3. passed. 
+1025
+----------------------------------------------------------------------------------------
+p   insert sort list             v1. passed.
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
