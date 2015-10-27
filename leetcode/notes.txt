@@ -262,6 +262,6 @@ xxxp perfect square              v1. failed. totally wrong!!
 ----------------------------------------------------------------------------------------
 xp  rotate image                 v1. failed. tiny error
                                  v2. passed. 
-
+x!  permutation                  v1. failed.!!!!!!!!!!!! backtracking!!!!!!!!!!!!
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
