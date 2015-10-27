@@ -258,4 +258,10 @@ xxxp perfect square              v1. failed. totally wrong!!
                                  v3. failed. time too long 
                                  v4. passed. solution from discuss forum!!!!!!!!!!!!!!!
 
+1027
+----------------------------------------------------------------------------------------
+xp  rotate image                 v1. failed. tiny error
+                                 v2. passed. 
+
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
