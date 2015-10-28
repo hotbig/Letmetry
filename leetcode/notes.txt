@@ -268,4 +268,5 @@ x!  permutation                  v1. failed.!!!!!!!!!!!! backtracking!!!!!!!!!!!
 ----------------------------------------------------------------------------------------
 pp  kth_largest_in_arrary        v1. passed.
                                  v2. paased from forum. awesome!!!!!!!!!!!!!!!!!!!!!
+p   right side view of tree      v1. passed.
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
