@@ -264,4 +264,8 @@ xp  rotate image                 v1. failed. tiny error
                                  v2. passed. 
 x!  permutation                  v1. failed.!!!!!!!!!!!! backtracking!!!!!!!!!!!!
 
+1028
+----------------------------------------------------------------------------------------
+pp  kth_largest_in_arrary        v1. passed.
+                                 v2. paased from forum. awesome!!!!!!!!!!!!!!!!!!!!!
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
