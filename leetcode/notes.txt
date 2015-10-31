@@ -280,6 +280,7 @@ xxp range bitwise and            v1/v2/v3 failed.
 ----------------------------------------------------------------------------------------
 xxxxp set zeros matrix           v1/v2/v3 wrong solution
                                  v4. wrong loop condition !!!!!!
-                                 v4. passed. 
+                                 v5. passed. 
+                                 vx. Better solution in forum!!!!!!!
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
