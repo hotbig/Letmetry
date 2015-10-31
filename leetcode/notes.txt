@@ -276,4 +276,10 @@ p   right side view of tree      v1. passed.
 xxp range bitwise and            v1/v2/v3 failed.
                                  v4. passed.
 
+1031
+----------------------------------------------------------------------------------------
+xxxxp set zeros matrix           v1/v2/v3 wrong solution
+                                 v4. wrong loop condition !!!!!!
+                                 v4. passed. 
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
