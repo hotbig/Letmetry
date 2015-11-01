@@ -283,4 +283,8 @@ xxxxp set zeros matrix           v1/v2/v3 wrong solution
                                  v5. passed. 
                                  vx. Better solution in forum!!!!!!!
 
+1101
+----------------------------------------------------------------------------------------
+p    game of like                v1. passed. 
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
