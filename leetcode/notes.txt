@@ -289,4 +289,10 @@ p    game of like                v1. passed.
 ppp  search a 2d matrix          v1. passed. binary_search
                                  v2. passed. bad optimization
                                  v3. solution from forum
+
+1102
+----------------------------------------------------------------------------------------
+xxp  minimum path of sum         v1. recurusive, timeout
+                                 v2. opt recurusive, timeout
+                                 v3. for with dynamic programming!!!!!!!!
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
