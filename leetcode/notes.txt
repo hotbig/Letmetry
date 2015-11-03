@@ -295,4 +295,11 @@ ppp  search a 2d matrix          v1. passed. binary_search
 xxp  minimum path of sum         v1. recurusive, timeout
                                  v2. opt recurusive, timeout
                                  v3. for with dynamic programming!!!!!!!!
+
+1103
+----------------------------------------------------------------------------------------
+p!  subsets                      v1. write by myself
+                                 v2. awesome solution from Forum!!!!!!!!!!!!!!!!!
+
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
