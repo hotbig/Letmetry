@@ -305,4 +305,9 @@ p!  subsets                      v1. write by myself
 ----------------------------------------------------------------------------------------
 !!  subsets duplicate            vx. from forum!!!!!!!!!!!!!
 
+1105
+----------------------------------------------------------------------------------------
+xp  clone graph                  v1. didn't clone vector, segment fault!!!!!!!!
+                                 v2. passed
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
