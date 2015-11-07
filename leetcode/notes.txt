@@ -310,4 +310,9 @@ p!  subsets                      v1. write by myself
 xp  clone graph                  v1. didn't clone vector, segment fault!!!!!!!!
                                  v2. passed
 
+1107
+----------------------------------------------------------------------------------------
+p   h index                      v1. passed. sort first O(nlogn)
+                                 vX. forum. fast with extra space to count!!!!
+                                
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
