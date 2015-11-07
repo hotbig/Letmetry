@@ -314,5 +314,8 @@ xp  clone graph                  v1. didn't clone vector, segment fault!!!!!!!!
 ----------------------------------------------------------------------------------------
 p   h index                      v1. passed. sort first O(nlogn)
                                  vX. forum. fast with extra space to count!!!!
+xxp h index II                   v1. failed
+                                 v2. failed
+                                 v3. passed. solution from forum!!!!!!
                                 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
