@@ -321,5 +321,6 @@ xxp h index II                   v1. failed
 1130
 ----------------------------------------------------------------------------------------
 !!! lowestCommonAncestor         vX. try 10 times!!!!!!!!!!!!!!!!!!!!!!!!!!!
+xxp count complete tree nodes    v3. what's complete tree!!!! alg is very slow!!!!
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
