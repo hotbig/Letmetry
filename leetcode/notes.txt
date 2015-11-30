@@ -318,4 +318,8 @@ xxp h index II                   v1. failed
                                  v2. failed
                                  v3. passed. solution from forum!!!!!!
                                 
+1130
+----------------------------------------------------------------------------------------
+!!! lowestCommonAncestor         vX. try 10 times!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
