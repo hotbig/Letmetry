@@ -326,5 +326,8 @@ xxp count complete tree nodes    v3. what's complete tree!!!! alg is very slow!!
 1202
 ----------------------------------------------------------------------------------------
 XX  BASIC CALC I                 V1. TWO STACKS, ONE FOR OPERATION, ONE FOR NUMBER!!!!
-XX  BASIC CALC I                 V2. a bit different. put '(' into operation stack 
+                                 V2. a bit different. put '(' into operation stack !!!!!!
+xxp word break                   v1. recursive, timeout
+                                 v2. for+backtracking, timeout
+                                 v3. dynamic programming !!!!!!!!!!!!!!!!!!!!!.
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
