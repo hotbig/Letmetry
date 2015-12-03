@@ -340,4 +340,6 @@ xxxp number of islands           v1/v2/v3 wrond idea. two simple, should conside
                                  10111
                                  10101
                                  11101
+xxxxp LRU Cache                  v1/v2/v3/v4/ wrong thinking about LRU. think it LFU!!!!!!!!!!
+                                 v5. correct. 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
