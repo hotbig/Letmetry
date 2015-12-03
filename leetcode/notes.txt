@@ -334,5 +334,6 @@ xxp word break                   v1. recursive, timeout
 1203
 ----------------------------------------------------------------------------------------
 XX BASIC CALC II                 v1/v2. passed based BASIC CALC I. two stack. mess code.
-
+xxxp number of islands           v1/v2/v3 wrond idea.
+                                 v4. recursive with DFS. !!!!!!!!
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
