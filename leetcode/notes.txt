@@ -330,4 +330,9 @@ XX  BASIC CALC I                 V1. TWO STACKS, ONE FOR OPERATION, ONE FOR NUMB
 xxp word break                   v1. recursive, timeout
                                  v2. for+backtracking, timeout
                                  v3. dynamic programming !!!!!!!!!!!!!!!!!!!!!.
+                                 v4. https://leetcode.com/discuss/33409/easy-to-understand-c-solution 
+1203
+----------------------------------------------------------------------------------------
+XX BASIC CALC II                 v1/v2. passed based BASIC CALC I. two stack. mess code.
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height

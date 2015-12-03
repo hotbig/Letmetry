@@ -1,0 +1,100 @@
+#include<iostream>
+#include<vector>
+#include<string>
+#include<stack>
+using namespace std;
+
+class Solution{
+    public:
+        int calculate(string s){
+            stack<int> op, num;
+            int total=0;
+            int i = 0;
+            
+
+            while(i < s.size()){
+                if(s[i] >= '0' && s[i] <= '9')
+                {
+                    int val = s[i]-'0';
+                    while(++i<s.size() && s[i] >= '0' && s[i] <= '9') val=val*10+(s[i]-'0');
+                    if(i<=s.size()) i--;
+
+//                    cout << "x  "<<s.size()<<i << endl;
+                    if(!op.empty() && (op.top() == '*' || op.top() == '/')){
+                        int pre = num.top();
+                        if(op.top() == '*'){ pre*= val; }
+                        else if(op.top() == '/') {pre/= val;}
+                        num.pop();
+                        op.pop();
+                        num.push(pre); 
+                    }
+                    else
+                    {
+                        num.push(val);
+                    }
+
+                    if(i == (s.size()-1))
+                    {
+                        if(!op.empty() && (op.top() == '+' || op.top() == '-')){
+                        int p2 = num.top(); num.pop();
+                        int p1 = num.top(); num.pop();
+
+                        if(op.top() == '-')     { p1 -= p2; }
+                        else if(op.top() == '+'){ p1 += p2; }
+                        op.pop();
+                        num.push(p1);
+                        }
+                    }
+                }
+                else if(s[i] == '*' || s[i] == '/')
+                {
+                    op.push(s[i]);
+                }
+                else if(s[i] == '+' || s[i] == '-' || s[i] == '(' )
+                {
+                    if(num.size() > 1 && op.size() >= 1)
+                    {
+                        int p2 = num.top(); num.pop();
+                        int p1 = num.top(); num.pop();
+
+                        if(op.top() == '-')     { p1 -= p2; }
+                        else if(op.top() == '+'){ p1 += p2; }
+                        op.pop();
+                        num.push(p1);
+                    }
+                    op.push(s[i]);
+                }
+                i++;
+            }
+
+                        if(!op.empty() && (op.top() == '+' || op.top() == '-')){
+                        int p2 = num.top(); num.pop();
+                        int p1 = num.top(); num.pop();
+
+                        if(op.top() == '-')     { p1 -= p2; }
+                        else if(op.top() == '+'){ p1 += p2; }
+                        op.pop();
+                        num.push(p1);
+                        }
+            if(!num.empty())
+            {
+                total = num.top(); num.pop();
+            }
+            return total;
+        }
+
+
+};
+
+
+int main()
+{
+    Solution s;
+    cout << s.calculate("13 * 2 / 2-1 / 22222-1+1") << endl;
+    cout << s.calculate("3+ 13 * 2") << endl;
+    cout << s.calculate("3* 2") << endl;
+    cout << s.calculate(" 2 ") << endl;
+    cout << s.calculate(" 2 +3 ") << endl;
+    
+    return 0;
+}
