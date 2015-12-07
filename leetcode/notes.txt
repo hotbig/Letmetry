@@ -344,4 +344,9 @@ xxxxp LRU Cache                  v1/v2/v3/v4/ wrong thinking about LRU. think it
                                  v5. correct. 
 xxxxx decode ways                v1/2/3/4/5/6/7 wrong way to do it dynamic programming!!!!!!!!!!!!
                                  v8. solution from forum!!!
+1207
+----------------------------------------------------------------------------------------
+xxx! permutation sequence        v1/2/3/4. failed. wrong direction by using backtracking/recursive
+                                 v5. https://leetcode.com/discuss/21027/sharing-my-straightforward-c-solution-with-explanation
+                                 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
