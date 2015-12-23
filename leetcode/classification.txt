@@ -6,5 +6,6 @@ C. shortest path. (dijkstra)
 
 A:
 course schedule II 
+course schedule
 
 B:
