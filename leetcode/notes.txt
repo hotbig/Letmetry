@@ -344,14 +344,7 @@ xxxxp LRU Cache                  v1/v2/v3/v4/ wrong thinking about LRU. think it
                                  v5. correct. 
 xxxxx decode ways                v1/2/3/4/5/6/7 wrong way to do it dynamic programming!!!!!!!!!!!!
                                  v8. solution from forum!!!
-<<<<<<< HEAD
 
-1223
-----------------------------------------------------------------------------------------
-Course Schedule II               v1/v2 wrong ways 
-                                 v3. solution from wikipedia. DFS. directed graph,topology sort
-                                 v4. solution from wikipedai. !!!!!!re-check this solution !!!!!!
-=======
 1207
 ----------------------------------------------------------------------------------------
 xxx! permutation sequence        v1/2/3/4. failed. wrong direction by using backtracking/recursive!!!!!!!!!!!!!!!!!!!
@@ -361,5 +354,12 @@ xxx! permutation sequence        v1/2/3/4. failed. wrong direction by using back
 xp FlattenBinaryTreetoLinkedList v1. Forgot to clear the left tree.!!!!!!!
                                  v2. correction!
                                  
->>>>>>> 58b16eb50dfe4487f98839369a874340e7b99e6b
+1223
+----------------------------------------------------------------------------------------
+Course Schedule II               v1/v2 wrong ways 
+                                 v3. solution from wikipedia. DFS. directed graph,topology sort
+                                 v4. solution from wikipedai. !!!!!!re-check this solution !!!!!!
+
+                                 
+                                 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
