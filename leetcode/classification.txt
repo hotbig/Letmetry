@@ -2,6 +2,7 @@ graph:
 ================================================================================
 A. directed graph, toplogy sort:()
 B. un-directed graph, 
+C. shortest path. (dijkstra) 
 
 A:
 course schedule II 
