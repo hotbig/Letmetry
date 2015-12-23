@@ -356,10 +356,10 @@ xp FlattenBinaryTreetoLinkedList v1. Forgot to clear the left tree.!!!!!!!
                                  
 1223
 ----------------------------------------------------------------------------------------
-Course Schedule II               v1/v2 wrong ways 
+xxpp Course Schedule II          v1/v2 wrong ways 
                                  v3. solution from wikipedia. DFS. directed graph,topology sort
                                  v4. solution from wikipedai. !!!!!!re-check this solution !!!!!!
-
+p    Course Schedule             v1. same solution with uppper v4 
                                  
                                  
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
