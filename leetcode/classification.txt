@@ -1,8 +1,8 @@
 graph:
 ================================================================================
-A. directed graph, toplogy sort:()
+A. directed graph, toplogy sort:(kahn, tarjan(dfs))
 B. un-directed graph, 
-C. shortest path. (dijkstra) 
+C. shortest path. (dijkstra's algo is similar with kahn's algo)
 
 A:
 course schedule II 
