@@ -364,6 +364,10 @@ p    Course Schedule             v1. same solution with uppper v4
 1224
 ----------------------------------------------------------------------------------------
 p    spiral_matrix               v1. passed.
+xxxxp simplify path              v1/2/3. failed on corner case 
+                                 v4. passed 
+                                 v5. better solution from forum. more clean  
+                                    https://leetcode.com/discuss/24939/c-10-lines-solution
 
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
