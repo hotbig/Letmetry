@@ -361,5 +361,9 @@ xxpp Course Schedule II          v1/v2 wrong ways
                                  v4. solution from wikipedai. !!!!!!re-check this solution !!!!!!
 p    Course Schedule             v1. same solution with uppper v4 
                                  
-                                 
+1224
+----------------------------------------------------------------------------------------
+p    spiral_matrix               v1. passed.
+
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
