@@ -374,4 +374,8 @@ xxxxp simplify path              v1/2/3. failed on corner case
 p    move_zeroes                 v1. passed. time too long !!!!!!
                                  v2. forum version: 0(n)
 
+20160321
+----------------------------------------------------------------------------------------
+p    letter combinations         v1. passed. not very fast!!!!! 
+                                 v2. forum: 展开函数
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
