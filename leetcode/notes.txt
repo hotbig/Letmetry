@@ -378,4 +378,7 @@ p    move_zeroes                 v1. passed. time too long !!!!!!
 ----------------------------------------------------------------------------------------
 p    letter combinations         v1. passed. not very fast!!!!! 
                                  v2. forum: 展开函数
+20160322
+----------------------------------------------------------------------------------------
+p    rotate list                 v1. passed
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
