@@ -381,4 +381,7 @@ p    letter combinations         v1. passed. not very fast!!!!!
 20160322
 ----------------------------------------------------------------------------------------
 p    rotate list                 v1. passed
+xxxp maximal square              v1. failed, runtime exceeding 纯递归
+                                 v5. 查表+递归。
+                                 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
