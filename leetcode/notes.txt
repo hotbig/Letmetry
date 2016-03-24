@@ -388,6 +388,6 @@ xxxp maximal square              v1. failed, runtime exceeding 纯递归
 ----------------------------------------------------------------------------------------
 xxxp restore ip address          v4. passed. permute/backtrack  v1/2/3 failed
                                  v5. passed. for/for/for/for
-
+xp   evaluate 逆波兰式           v1. failed. 没有考虑负数。v2.passed
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
