@@ -390,4 +390,13 @@ xxxp restore ip address          v4. passed. permute/backtrack  v1/2/3 failed
                                  v5. passed. for/for/for/for
 xp   evaluate 逆波兰式           v1. failed. 没有考虑负数。v2.passed
 
+20160330
+----------------------------------------------------------------------------------------
+xpp  find the median             v1. timeout v2.passed with linkedlist, very slow
+                                 v3. passed with priority queue(heap) fast!!!!!!!!!!!!!
+
+
+
+
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
