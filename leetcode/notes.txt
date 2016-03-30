@@ -394,6 +394,7 @@ xp   evaluate 逆波兰式           v1. failed. 没有考虑负数。v2.passed
 ----------------------------------------------------------------------------------------
 xpp  find the median             v1. timeout v2.passed with linkedlist, very slow
                                  v3. passed with priority queue(heap) fast!!!!!!!!!!!!!
+xxx  peeking iterator            v1. cannot understand the c++ iterator. copy from forum!!!!!!
 
 
 
