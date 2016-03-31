@@ -397,7 +397,9 @@ xpp  find the median             v1. timeout v2.passed with linkedlist, very slo
 xxx  peeking iterator            v1. cannot understand the c++ iterator. copy from forum!!!!!!
 
 
-
+20160331
+----------------------------------------------------------------------------------------
+px   binary tree postorder...    v1. 递归  v2. stack+迭代参考wiki
 
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
