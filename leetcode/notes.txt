@@ -401,5 +401,8 @@ xxx  peeking iterator            v1. cannot understand the c++ iterator. copy fr
 ----------------------------------------------------------------------------------------
 px   binary tree postorder...    v1. 递归  v2. stack+迭代参考wiki
 
+20160819
+----------------------------------------------------------------------------------------
+xp   copy random linked list     v1. 没有考虑random为空的情况 v2. passed 
 
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
