@@ -405,4 +405,8 @@ px   binary tree postorder...    v1. 递归  v2. stack+迭代参考wiki
 ----------------------------------------------------------------------------------------
 xp   copy random linked list     v1. 没有考虑random为空的情况 v2. passed 
 
+20160822 
+----------------------------------------------------------------------------------------
+!!! find the duplicate           v1. 参考了http://www.cnblogs.com/grandyang/p/4843654.html
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
