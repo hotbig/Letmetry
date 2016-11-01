@@ -409,4 +409,8 @@ xp   copy random linked list     v1. 没有考虑random为空的情况 v2. passe
 ----------------------------------------------------------------------------------------
 !!! find the duplicate           v1. 参考了http://www.cnblogs.com/grandyang/p/4843654.html
 
+20161101 
+----------------------------------------------------------------------------------------
+p seach for a range              v1.passed, better clean solution existed in the forum;
+
 [1] http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height
